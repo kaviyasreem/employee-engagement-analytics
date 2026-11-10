@@ -1,0 +1,95 @@
+
+question,group,category,respondents
+Age group,Demographics,18–25,84
+Age group,Demographics,25–35,43
+Age group,Demographics,35–45,11
+Age group,Demographics,Above 45,2
+Gender,Demographics,Female,65
+Gender,Demographics,Male,75
+Gender,Demographics,Others,0
+Educational qualification,Demographics,Diploma,19
+Educational qualification,Demographics,Undergraduate,78
+Educational qualification,Demographics,Postgraduate,36
+Educational qualification,Demographics,Others,7
+Current work mode,Demographics,On-site,52
+Current work mode,Demographics,Hybrid,68
+Current work mode,Demographics,Remote,20
+Work experience,Demographics,Less than 1 year,40
+Work experience,Demographics,1–3 years,57
+Work experience,Demographics,3–5 years,27
+Work experience,Demographics,More than 5 years,16
+Organizational hierarchy is clear,Survey statements,Strongly Agree,60
+Organizational hierarchy is clear,Survey statements,Agree,50
+Organizational hierarchy is clear,Survey statements,Neutral,27
+Organizational hierarchy is clear,Survey statements,Disagree,2
+Organizational hierarchy is clear,Survey statements,Strongly Disagree,1
+Reporting relationships are clearly defined,Survey statements,Strongly Agree,26
+Reporting relationships are clearly defined,Survey statements,Agree,74
+Reporting relationships are clearly defined,Survey statements,Neutral,33
+Reporting relationships are clearly defined,Survey statements,Disagree,7
+Reporting relationships are clearly defined,Survey statements,Strongly Disagree,0
+Communication flow between departments is effective,Survey statements,Strongly Agree,29
+Communication flow between departments is effective,Survey statements,Agree,56
+Communication flow between departments is effective,Survey statements,Neutral,42
+Communication flow between departments is effective,Survey statements,Disagree,10
+Communication flow between departments is effective,Survey statements,Strongly Disagree,3
+Decision-making processes are efficient,Survey statements,Strongly Agree,24
+Decision-making processes are efficient,Survey statements,Agree,58
+Decision-making processes are efficient,Survey statements,Neutral,37
+Decision-making processes are efficient,Survey statements,Disagree,17
+Decision-making processes are efficient,Survey statements,Strongly Disagree,4
+Coordination among teams is smooth,Survey statements,Strongly Agree,14
+Coordination among teams is smooth,Survey statements,Agree,66
+Coordination among teams is smooth,Survey statements,Neutral,29
+Coordination among teams is smooth,Survey statements,Disagree,22
+Coordination among teams is smooth,Survey statements,Strongly Disagree,9
+I feel motivated to perform my job,Survey statements,Strongly Agree,40
+I feel motivated to perform my job,Survey statements,Agree,46
+I feel motivated to perform my job,Survey statements,Neutral,36
+I feel motivated to perform my job,Survey statements,Disagree,11
+I feel motivated to perform my job,Survey statements,Strongly Disagree,7
+I am actively engaged,Survey statements,Strongly Agree,22
+I am actively engaged,Survey statements,Agree,66
+I am actively engaged,Survey statements,Neutral,27
+I am actively engaged,Survey statements,Disagree,21
+I am actively engaged,Survey statements,Strongly Disagree,4
+Hybrid/remote work improved my work-life balance,Survey statements,Strongly Agree,24
+Hybrid/remote work improved my work-life balance,Survey statements,Agree,45
+Hybrid/remote work improved my work-life balance,Survey statements,Neutral,43
+Hybrid/remote work improved my work-life balance,Survey statements,Disagree,21
+Hybrid/remote work improved my work-life balance,Survey statements,Strongly Disagree,7
+I feel emotionally connected to my organization,Survey statements,Strongly Agree,10
+I feel emotionally connected to my organization,Survey statements,Agree,54
+I feel emotionally connected to my organization,Survey statements,Neutral,41
+I feel emotionally connected to my organization,Survey statements,Disagree,28
+I feel emotionally connected to my organization,Survey statements,Strongly Disagree,7
+My productivity has increased,Survey statements,Strongly Agree,23
+My productivity has increased,Survey statements,Agree,52
+My productivity has increased,Survey statements,Neutral,34
+My productivity has increased,Survey statements,Disagree,24
+My productivity has increased,Survey statements,Strongly Disagree,7
+Organization provides adequate technological support,Survey statements,Strongly Agree,57
+Organization provides adequate technological support,Survey statements,Agree,53
+Organization provides adequate technological support,Survey statements,Neutral,19
+Organization provides adequate technological support,Survey statements,Disagree,2
+Organization provides adequate technological support,Survey statements,Strongly Disagree,9
+I receive sufficient support from my manager,Survey statements,Strongly Agree,27
+I receive sufficient support from my manager,Survey statements,Agree,61
+I receive sufficient support from my manager,Survey statements,Neutral,35
+I receive sufficient support from my manager,Survey statements,Disagree,13
+I receive sufficient support from my manager,Survey statements,Strongly Disagree,4
+Communication tools help me collaborate effectively,Survey statements,Strongly Agree,23
+Communication tools help me collaborate effectively,Survey statements,Agree,59
+Communication tools help me collaborate effectively,Survey statements,Neutral,36
+Communication tools help me collaborate effectively,Survey statements,Disagree,17
+Communication tools help me collaborate effectively,Survey statements,Strongly Disagree,5
+I am satisfied with current hybrid/remote work,Survey statements,Strongly Agree,26
+I am satisfied with current hybrid/remote work,Survey statements,Agree,50
+I am satisfied with current hybrid/remote work,Survey statements,Neutral,40
+I am satisfied with current hybrid/remote work,Survey statements,Disagree,15
+I am satisfied with current hybrid/remote work,Survey statements,Strongly Disagree,9
+I prefer to continue hybrid/remote work,Survey statements,Strongly Agree,28
+I prefer to continue hybrid/remote work,Survey statements,Agree,52
+I prefer to continue hybrid/remote work,Survey statements,Neutral,30
+I prefer to continue hybrid/remote work,Survey statements,Disagree,15
+I prefer to continue hybrid/remote work,Survey statements,Strongly Disagree,15
